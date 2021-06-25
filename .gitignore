@@ -1,0 +1,8 @@
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle.kts
+/.gradle/
+/.idea/
+/build/
+/gradle/
