@@ -6,6 +6,4 @@ enum class CalculatorConstant(val value: Int) {
     MULTIPLICATION(2),
     DIVISION(3),
     CLEAN(4),
-    EQUAL(5),
-
 }
